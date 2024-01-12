@@ -110,11 +110,4 @@ Merci de votre attention. N'hésitez pas à poser des questions et à explorer d
 | Feature 8 | LK | 9/24 | 10/2 | 8 | Not started |
 | Feature 9 | AJ | 10/2 | 10/5 | 3 | Not started |
 
-**Notes:**
-
-* You can use additional markdown formatting as needed, such as headings for different sections, bold text for important information, etc.
-* You can adjust the column widths to fit your content.
-* If you have additional information to include, such as dependencies between tasks or acceptance criteria for features, you can add additional columns to the table.
-
-I hope this helps! Feel free to let me know if you have any other questions.
 

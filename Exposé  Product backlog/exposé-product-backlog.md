@@ -21,3 +21,5 @@ Utilisation de la seul référence proposé par le formateur
 ## Livrable
 
 - [Présentation Product backlog](https://docs.google.com/presentation/d/13oa__qCOngN-4cIBXz51rvmu6a_w5FwmMkMhDk9M0SY/edit?usp=sharing)
+
+- [Exemple AGILE METHOD Presentation for Digital Product ](https://docs.google.com/presentation/d/10ac5AuY1pkRlrRD7xoSWjfk33npZiDY8qWkCeCNdm4M/edit?usp=sharing)

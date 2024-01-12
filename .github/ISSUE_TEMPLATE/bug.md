@@ -13,8 +13,6 @@ assignees: ''
 ## Solution 
 
 
-## Pull request 
-- titre-issue close #numéro-issue
 
 ##  Critère de validation
 

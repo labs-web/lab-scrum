@@ -1,15 +1,7 @@
----
-name: Feature
-about: Suggest an idea for this project
-title: ''
-labels: feature
-assignees: ''
-
----
+# Exposé-méthode-scrum
 
 ## Travail à faire
-
-
+- Realisation d'un exposé sur la méthode Scrum
 
 ##  Critère de validation
 
@@ -19,4 +11,4 @@ Le validateur doit vérifier les éléments suivants
    1. l'affectation de l'issue au membre
 2. Github
    1. le pull request est vers le dépôt *develop*
-   2. le nom de pull-request
+   2. le nom de pull-request est le nom d'issue 

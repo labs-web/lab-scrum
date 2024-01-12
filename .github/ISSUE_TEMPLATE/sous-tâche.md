@@ -11,9 +11,6 @@ assignees: ''
 
 ##  Livrables
 
-## Pull request
-- titre-issue close #numéro-issue
-
 ##  Critère de validation
 
 Le validateur doit vérifier les éléments suivants 

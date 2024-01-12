@@ -2,10 +2,10 @@
 
 - Exposé-méthode-agile
 - Exposé-méthode-scrum
-- product-owner
-- scrum-master
-- product-backlog
-- daily-meeting
-- sprint-backlog
-- sprint-review
-- sprint-retroactive
+- Exposé-product-owner
+- Exposé-scrum-master
+- Exposé-product-backlog
+- Exposé-daily-meeting
+- Exposé-sprint-backlog
+- Exposé-sprint-review
+- Exposé-sprint-retroactive

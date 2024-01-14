@@ -41,14 +41,34 @@ En résumé, le backlog produit est bien plus qu'une simple liste de tâches ; c
 ## Comment Créer et Maintenir un Backlog Produit
 
 * **Recueillir les Commentaires des Parties Prenantes :** Impliquez les utilisateurs, les clients et autres parties prenantes dans la définition du backlog.
+
 * **Prioriser les Éléments du Backlog :** Utilisez une méthode comme MoSCoW ou valeur vs. effort pour prioriser les éléments.
 
-    ![MoSCoW Prioritization](img/MoSCoW.png)
-    ![The Value vs. Effort Matrix](img/value-vs-effort.jpeg)
+    ![Priorisation MoSCoW](img/MoSCoW.png)
+    ![Matrice Valeur vs. Effort](img/value-vs-effort.jpeg)
 
 * **Raffiner les Éléments du Backlog :** Divisez les gros éléments en tâches plus petites et plus faciles à gérer.
+
 * **Estimer l'Effort pour les Éléments du Backlog :** Utilisez des techniques comme les story points ou le timeboxing pour estimer l'effort.
+
 * **Revoir et Mettre à Jour Régulièrement le Backlog :** Gardez le backlog à jour avec les dernières informations et changements.
+
+En termes de structure, un backlog produit peut être divisé en plusieurs niveaux, chacun servant un objectif spécifique dans le processus de développement. Voici quelques concepts clés à comprendre dans le contexte d'un backlog produit :
+
+### Thème
+Un thème est un regroupement logique d'épisodes ou de fonctionnalités similaires qui partagent un objectif commun. Les thèmes peuvent aider à organiser les éléments du backlog et à communiquer la vision globale du produit.
+### Épic
+Un épic représente une fonctionnalité ou une initiative de haut niveau qui apporte une valeur significative au produit. Les épics sont souvent trop vastes pour être mis en œuvre en une seule itération.
+
+
+
+### User Story (Histoire Utilisateur)
+Une user story est une description concise d'une fonctionnalité du point de vue de l'utilisateur. Elle suit le format "En tant que [type d'utilisateur], je veux [réaliser quelque chose] afin de [atteindre un objectif]". Les user stories sont généralement utilisées pour représenter des fonctionnalités individuelles.
+
+### Tâche
+Une tâche est une unité de travail plus petite qui contribue à la réalisation d'une user story. Les tâches sont souvent utilisées lors de la phase de raffinement du backlog pour décomposer les éléments en activités gérables.
+
+Lors de la gestion du backlog produit, il est essentiel de maintenir une communication constante avec les parties prenantes, de réévaluer et de prioriser  les éléments en fonction des besoins changeants, et de garantir que le backlog reflète toujours la vision actuelle du produit.
 
 ---
 

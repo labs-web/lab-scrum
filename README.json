@@ -31,8 +31,15 @@
             {
                 "Titre":"Autoformation",
                 "Lien":"#"
+            },
+            {
+                "Titre":"Rapport",
+                "Lien":"http://labs-web.github.io/lab-scrum/rapport.html"
+            },
+            {
+                "Titre":"Presentation",
+                "Lien":"http://labs-web.github.io/lab-scrum/presentation.html"
             }
-           
         ]
     } 
     

@@ -17,11 +17,12 @@ order: 2
   - Introduction
     - images
     - Introduction.md
-  - Conclusion
-    - Images
-    - Conclusion.md
   - Backlog
     - Backlog.md
+    - images
+  - Conclusion
+    - images
+    - Conclusion.md
   -  rapport.md
   -  presentation.md
 

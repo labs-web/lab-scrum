@@ -1,5 +1,5 @@
 ---
-layout: presentation
+layout: default
 order: 1
 ---
 
@@ -8,13 +8,11 @@ order: 1
 {% if page.url != "/feed.xml" 
 and page.url != "/assets/css/style.css" 
 and  page.url != "/"  
-and page.url != "/presentation.html" %}
+and page.url != "/presentation.html" 
+and page.title == "Présentation du Product Backlog" %}
 
 <!-- page.content | markdownify -->
 {{page.content }}
 
 {% endif %}
 {% endfor %}
-
- 
- 

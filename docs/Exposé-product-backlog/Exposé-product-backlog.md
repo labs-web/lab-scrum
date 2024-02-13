@@ -1,3 +1,9 @@
+---
+layout: presentation
+expose: Exposé product backlog
+title: Présentation du Product Backlog
+order: 1
+---
 # presentation-product-backlog
 
 ## Introduction

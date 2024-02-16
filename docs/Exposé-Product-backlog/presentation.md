@@ -192,4 +192,3 @@ Le Product Backlog est le point central de tout projet Scrum
 - https://www.unow.fr/blog/le-coin-des-experts/product-backlog-projet-scrum/
 - https://www.qrpinternational.fr/blog/glossaire/quest-ce-quun-backlog-definition-etapes-caracteristiques-et-outils/
 
-<!-- new slide -->

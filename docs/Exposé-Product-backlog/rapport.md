@@ -1,6 +1,6 @@
 ---
-layout: rapport
-chapitre:  Product Backlog 
+layout: default
+chapitre: Exposé Product Backlog 
 order: 5
 ---
 

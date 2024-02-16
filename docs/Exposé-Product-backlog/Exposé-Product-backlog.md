@@ -1,6 +1,6 @@
 ---
 layout: default
-chapitre: Exposé Product Backlog 
+chapitre: Resumer
 order: 4
 ---
 

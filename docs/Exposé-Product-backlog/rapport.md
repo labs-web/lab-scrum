@@ -2,7 +2,6 @@
 layout: default
 order: 5
 ---
-
 # Plan 
 - [Plan](#plan)
 - [Product backlog](#product-backlog)
@@ -23,6 +22,7 @@ order: 5
   - [4. Vérifier le niveau de qualité des user stories](#4-vérifier-le-niveau-de-qualité-des-user-stories)
   - [Quels outils peut-on utiliser pour gérer un product backlog ?](#quels-outils-peut-on-utiliser-pour-gérer-un-product-backlog-)
   - [Références](#références)
+
 
 
 # Product backlog

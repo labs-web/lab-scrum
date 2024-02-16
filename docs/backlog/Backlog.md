@@ -1,7 +1,7 @@
 ---
 layout: default
-title: structure-des-dossiers.md
-order: 2
+chapitre: backlog
+order: 3
 ---
 ## Backlog
 <!-- new slide -->
@@ -9,7 +9,7 @@ order: 2
 
 ### Structure des dossiers
 
-![alt text](./backlog/images/Digital personal files-rafiki.png)
+![alt text](/lab-scrum/backlog/images/backlog.png)*Figure 2:Backlog*
 <!-- note -->
 
 - docs

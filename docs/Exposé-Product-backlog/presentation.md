@@ -3,12 +3,9 @@ layout: presentation
 order: 5
 ---
 
-
-
 # Product backlog
 ![Exposé Markdown](/lab-scrum/Exposé-Product-backlog/images/productbacklog.jpg)
 <!-- new slide -->
-
 
 ## Introduction
 

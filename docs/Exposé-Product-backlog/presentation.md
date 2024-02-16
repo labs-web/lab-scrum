@@ -178,7 +178,7 @@ Le Product Backlog est le point central de tout projet Scrum
 
 <!-- new slide -->
 
-## Quels outils peut-on utiliser pour gérer un product backlog ?
+## les outils utiliser pour gérer un product backlog 
 
 ![Différences entre le cahier des charges et le product backlog ](/lab-scrum/Exposé-Product-backlog/images/Trello-vs-Jira-2-1.webp)*Figure3 :outils*
 

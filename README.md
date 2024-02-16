@@ -2,5 +2,7 @@
 
 
 
-# References 
-[Rapport](http://labs-web.github.io/lab-scrum/rapport.html)
+# Livrable 
+
+[Rapport](http://labs-web.github.io/lab-scrum/rapport)
+[Rapport](http://labs-web.github.io/lab-scrum/presentation)

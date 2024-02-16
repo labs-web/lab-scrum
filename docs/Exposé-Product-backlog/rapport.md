@@ -45,7 +45,7 @@ Le Product Backlog est le point central de tout projet Scrum
 ## Caractéristiques
 
 
-![Différences entre le cahier des charges et le product backlog ](/lab-scrum/Exposé-Product-backlog/images/Dep.png)*Figure3 : Caractéristiques*
+![Différences entre le cahier des charges et le product backlog ](/lab-scrum/Exposé-Product-backlog/images/product-backlog-DEEP.png)*Figure3 : Caractéristiques*
 
 <!-- note -->
 - Le product backlog possède quelques caractéristiques remarquables.
@@ -129,7 +129,7 @@ Le Product Backlog est le point central de tout projet Scrum
 <!-- new slide -->
 ## 2. Rédiger les user stories
 
-![Différences entre le cahier des charges et le product backlog ](/lab-scrum/Exposé-Product-backlog/images/user.png)*Figure3 :LRédiger les user stories*
+![Différences entre le cahier des charges et le product backlog ](/lab-scrum/Exposé-Product-backlog/images/User_story.png)*Figure3 :LRédiger les user stories*
 
 <!-- note -->
 - Ensuite vient le moment de rédiger les users stories en gardant à l’esprit les questions : 
@@ -177,6 +177,9 @@ Le Product Backlog est le point central de tout projet Scrum
 
 ## Quels outils peut-on utiliser pour gérer un product backlog ?
 
+![Différences entre le cahier des charges et le product backlog ](/lab-scrum/Exposé-Product-backlog/images/Trello-vs-Jira-2-1.webp)*Figure 10 :outils*
+
+<!-- note -->
 - Le product backlog peut être réalisé sur un simple fichier excel mais certains outils facilitent le suivi des user stories comme par exemple JIRA, Trello ou encore Projectboard.
 <!-- new slide -->
 ## Références 

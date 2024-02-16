@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: conclusion
-order: 13
+order: 18
 
 ---
 # conclusion
@@ -9,4 +9,4 @@ order: 13
 !['Conclusion'](/lab-scrum/13.Conclusion/images/Conclusion.jpg)*Figure 17: Conclusion*
 
 <!-- note -->
-En conclusion, 
+

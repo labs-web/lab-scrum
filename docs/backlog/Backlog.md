@@ -7,7 +7,7 @@ order: 3
 <!-- new slide -->
 
 
-### Structure des dossiers
+## Structure des dossiers
 
 ![alt text](/lab-scrum/backlog/images/backlog.png)*Figure 2:Backlog*
 <!-- note -->

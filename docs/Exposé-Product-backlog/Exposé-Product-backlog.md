@@ -5,7 +5,7 @@ order: 4
 ---
 
 # Product Backlog 
- 
+
 ## Introduction 
 ![Exposé Markdown](/lab-scrum/Exposé-Product-backlog/images/productbacklog.jpg)*Figure: Introduction*
 

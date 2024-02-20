@@ -9,6 +9,7 @@ order: 1
 !['introduction'](/lab-scrum/table-de-matière/images/Scrum-Management-Explained.png)
 - Encadré par : Essaraj Fouad 
 - Realiser par : Yasmine Daifane 
+  
 <!-- new slide -->
 
 # Table de matière

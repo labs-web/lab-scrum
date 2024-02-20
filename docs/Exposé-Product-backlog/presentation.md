@@ -3,7 +3,29 @@ layout: presentation
 order: 5
 ---
 
-# Product backlog
+# Plan 
+- [Plan](#plan)
+  - [Product backlog](#product-backlog)
+  - [Introduction](#introduction)
+  - [Définition](#définition)
+  - [Cahier des charges vs product backlog](#cahier-des-charges-vs-product-backlog)
+  - [Responsable](#responsable)
+  - [Caractéristiques](#caractéristiques)
+  - [La liste des items du product backlog](#la-liste-des-items-du-product-backlog)
+  - [L’importance des items dans le product backlog](#limportance-des-items-dans-le-product-backlog)
+  - [L’estimation initiale](#lestimation-initiale)
+  - [Démonstration et notes](#démonstration-et-notes)
+  - [En complément](#en-complément)
+  - [Étapes de construction](#étapes-de-construction)
+  - [1. Identifier les besoins](#1-identifier-les-besoins)
+  - [2. Rédiger les user stories](#2-rédiger-les-user-stories)
+  - [3. Prioriser le product backlog](#3-prioriser-le-product-backlog)
+  - [4. Vérifier le niveau de qualité des user stories](#4-vérifier-le-niveau-de-qualité-des-user-stories)
+  - [les outils utiliser pour gérer un product backlog](#les-outils-utiliser-pour-gérer-un-product-backlog)
+  - [Références](#références)
+
+<!-- new slide -->
+## Product backlog
 ![Exposé Markdown](/lab-scrum/Exposé-Product-backlog/images/productbacklog.jpg)
 <!-- new slide -->
 
@@ -188,4 +210,5 @@ Le Product Backlog est le point central de tout projet Scrum
 ## Références 
 - https://www.unow.fr/blog/le-coin-des-experts/product-backlog-projet-scrum/
 - https://www.qrpinternational.fr/blog/glossaire/quest-ce-quun-backlog-definition-etapes-caracteristiques-et-outils/
+
 

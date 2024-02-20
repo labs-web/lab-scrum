@@ -8,7 +8,7 @@ order: 2
 
 
 
-!['introduction'](/lab-scrum/1.Introduction/images/introduction.png)*Figure 1: Introduction*
+!['introduction'](/lab-scrum/Introduction/images/introduction.png)*Figure 1: Introduction*
 
 <!-- note -->
 

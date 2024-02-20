@@ -20,17 +20,17 @@ order: 5
   - [2. Rédiger les user stories](#2-rédiger-les-user-stories)
   - [3. Prioriser le product backlog](#3-prioriser-le-product-backlog)
   - [4. Vérifier le niveau de qualité des user stories](#4-vérifier-le-niveau-de-qualité-des-user-stories)
-  - [Quels outils peut-on utiliser pour gérer un product backlog ?](#quels-outils-peut-on-utiliser-pour-gérer-un-product-backlog-)
+  - [les outils utiliser pour gérer un product backlog](#les-outils-utiliser-pour-gérer-un-product-backlog)
   - [Références](#références)
 
 
 
 # Product backlog
-![Exposé Markdown](/lab-scrum/Exposé-Product-backlog/images/productbacklog.jpg)
+![Exposé Markdown](/lab-scrum/Exposé-Product-backlog/images/productbacklog.jpg)*Figure 1 : introduction*
 <!-- new slide -->
 ## Introduction
 
-![Différences entre le cahier des charges et le product backlog ](/lab-scrum/Exposé-Product-backlog/images/scrum-sprint-progress.png)*Figure 1: introduction*
+![Différences entre le cahier des charges et le product backlog ](/lab-scrum/Exposé-Product-backlog/images/scrum-sprint-progress.png)*Figure 2: introduction*
 
 
 <!-- note -->
@@ -196,7 +196,7 @@ Le Product Backlog est le point central de tout projet Scrum
 
 <!-- new slide -->
 
-## Quels outils peut-on utiliser pour gérer un product backlog ?
+## les outils utiliser pour gérer un product backlog 
 
 ![Différences entre le cahier des charges et le product backlog ](/lab-scrum/Exposé-Product-backlog/images/Trello-vs-Jira-2-1.webp)*Figure 10 :outils*
 

@@ -1,15 +1,14 @@
-# init-rapport
+# init lab
 ## Travail à faire
 - Élaboration d'un rapport sans contenu avec les pages et leurs titres
-    - Ajouter le lien du rapport dans le fichier `index.md` de le dossier `docs`
-  
+   
+- Création d'une présentation sans contenu, mais avec les titres des diapositives
+
 ## Livrable
-  
+- backlog/sous-tache/init-lab
 - docs/*
-- backlog/sous-tache/1.init-rapport.7.md
-- README.json
-- README.md
-- 1.scrum.md
-- 2.product-owner.md/*
+- README.json : ajouter le lien de rapport et presentation
+- README.md : ajouter le lien de rapport et presentation
+
   
   

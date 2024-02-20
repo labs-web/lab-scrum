@@ -7,6 +7,7 @@ order: 4
 # Product Backlog 
 
 ## Introduction 
+
 ![Exposé Markdown](/lab-scrum/Exposé-Product-backlog/images/productbacklog.jpg)*Figure: Introduction*
 
 Le backlog est construit dans sa forme initiale au démarrage du projet, avant le démarrage du premier sprint. Il va permettre la planification de la release (organisation de la livraison des stories et du périmètre des différents sprints). Il est ensuite mis à jour à chaque sprint.

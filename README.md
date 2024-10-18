@@ -1,7 +1,9 @@
 # lab-scrum
 
 
-## 
+## Pré-requis
+
+
 
 # Livrable 
 

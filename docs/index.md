@@ -1,11 +1,16 @@
 ---
-layout: default
+layout: rapport
 order: 1
 ---
 
-{% assign pages = site.pages | sort: "order" %}
-{% for page in pages %}
- {% if page.chapitre %}
-    {{- page.content | markdownify -}}
-  {% endif %}
-{% endfor %}
+# Rapports
+
+<a href="/lab-scrum/pkg_global/rapport"> Rapport globale </a> 
+
+## Par packages
+
+<ul>
+  {% for package in site.data.packages_json %}
+    <li> <a href="/lab-scrum/{{ package.name }}/rapport"> {{ package.titre }} </a> </li>
+  {% endfor %}
+</ul>

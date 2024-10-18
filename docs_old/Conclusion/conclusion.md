@@ -2,7 +2,6 @@
 layout: default
 chapitre: conclusion
 order: 18
-
 ---
 # conclusion
 

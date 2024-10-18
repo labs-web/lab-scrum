@@ -22,7 +22,7 @@
    --r-block-margin: 20px;
    --r-heading-margin: 0 0 20px 0;
    --r-heading-font: Source Sans Pro, Helvetica, sans-serif;
-   --r-heading-color: #00838F;
+   --r-heading-color: #6CA663;
    --r-heading-line-height: 1.2;
    --r-heading-letter-spacing: normal;
    --r-heading-text-transform: none;
@@ -95,7 +95,7 @@
  .reveal h2, 
  .reveal h3,
  .reveal h4 {
-   background-color: #00838F ;
+   background-color: var(--r-heading-color) ;
    color: white;
  }
 
